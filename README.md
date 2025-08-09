@@ -17,3 +17,4 @@ Designed for quick, script-based logic without leaving Go.
 ```go
     import "github.com/jgtux/go-py-way"
 ```
+Example at main.go
