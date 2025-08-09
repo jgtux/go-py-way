@@ -1,4 +1,4 @@
-# PyWayRecipe 
+# GoPyWay
 
 Run Python "recipes" directly from Go, pass in variables, and update them from Python output.  
 Designed for quick, script-based logic without leaving Go.
