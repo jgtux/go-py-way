@@ -12,9 +12,7 @@ Designed for quick, script-based logic without leaving Go.
 
 ---
 
-## Installation
-
-Clone the repository and build:
+## Usage
 
 ```go
     import "github.com/jgtux/go-py-way"
