@@ -15,10 +15,10 @@ Designed for quick, script-based logic without leaving Go.
 ## Usage
 
 ```bash
-    go get github.com/jgtux/go-py-way@latest
+go get github.com/jgtux/go-py-way@latest
 ```
 
 ```go
-    import "github.com/jgtux/go-py-way/core_funcs"
+import "github.com/jgtux/go-py-way/core_funcs"
 ```
 Example at main.go
