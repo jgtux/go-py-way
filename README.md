@@ -11,12 +11,13 @@ Designed for quick, script-based logic without leaving Go.
 - Python 3 installed and available as `python3` in `PATH`
 
 ---
-
-## Usage
+## Installation
 
 ```bash
 go get github.com/jgtux/go-py-way@latest
 ```
+---
+## Usage
 
 ```go
 import "github.com/jgtux/go-py-way/core_funcs"
